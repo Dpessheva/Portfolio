@@ -17,11 +17,13 @@
 
 body{
     padding: 1em 2em;
-    max-width: 61rem;
-    margin: 0 auto;
     
 }
-
+.site{
+    
+    max-width: 61rem;
+    margin: 0 auto;
+}
 h3{
     text-align: center;
 }
