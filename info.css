@@ -57,6 +57,7 @@
 .pdf-resume a:focus{
     background: rgb(0, 0, 0);
     color: white;
+    outline: none;
 }
 
 .info ul li a {

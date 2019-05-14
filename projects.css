@@ -4,8 +4,10 @@
 
 }
 #projects img{
-    width: 150px;
+     width: 150px;
     height: 150px;
+    overflow: hidden; 
+
 }
 #projects > h3{
     padding-bottom: 1em;
