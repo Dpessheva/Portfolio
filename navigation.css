@@ -1,0 +1,52 @@
+.site-header{
+    padding-bottom: 3rem;
+}
+.main-navigation{
+    font-size: 1.5rem;
+    padding-left: 1em;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+}
+nav{
+    font-family: 'Sofia', sans-serif;
+}
+header nav ul {
+    display: flex;
+    margin: 0;
+    padding: 2rem 0;
+    flex-wrap:wrap;
+}
+
+header nav li {
+    display: block;
+    list-style: none outside;
+    flex: 1 1 auto;
+}
+header nav li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: black;
+}
+header nav li a:focus, header nav li a:hover {
+    background: rgb(0, 0, 0);
+    color: white;
+}
+.site-title {
+  
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 0;
+    font-weight: bold;
+}
+.site-title a{
+    display: block;
+    padding: 2rem 1rem;
+    text-decoration: none;
+    color: black;
+}

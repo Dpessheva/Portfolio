@@ -1,0 +1,14 @@
+.education-info{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid black;
+    
+}
+
+.education{
+    width: 50%;
+}
+.experience{
+    width: 50%
+}

@@ -1,0 +1,28 @@
+#projects{
+  
+    border-bottom: 2px solid black;
+
+}
+#projects img{
+    width: 150px;
+    height: 150px;
+}
+#projects > h3{
+    padding-bottom: 1em;
+    text-align: center;
+}
+.project-info{
+    padding: 2em 0;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+.project-info a {
+    text-decoration: none;
+    font-size: 1em;
+    color: black;
+
+}

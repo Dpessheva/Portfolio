@@ -1,0 +1,33 @@
+#interests{
+    
+    justify-content: space-between;
+    padding-top: 1em;
+}
+#interests h3{
+    text-align: center;
+    padding-bottom: 2em;
+}
+.interests-info,
+.contacts{
+    display: inline-block;
+    justify-content: space-around;
+    padding: 2em 7em;
+    margin: 2em;
+}
+.contacts{
+  text-align: center;
+  justify-content: space-around
+}
+.contacts ul{
+    display: flex;
+
+}
+.contacts ul li {
+     list-style: none;
+     text-decoration: none;
+}
+.contacts  li a {
+    font-size: 1.5em;
+    color: black;
+    padding: 1em;
+}

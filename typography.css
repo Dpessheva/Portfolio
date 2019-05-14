@@ -1,0 +1,51 @@
+/* @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif+Caption:400,400i&subset=cyrillic,cyrillic-ext,latin-ext'); */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif:400,400i,700,700i|Sofia&subset=cyrillic');
+
+
+html{
+
+    font: 16px/1.5 'Sofia', 'Helvetica', 'Verdana', 'sans-serif';
+}
+
+h1,h2,h3,h4,h5,h6{
+    font: 1em/1.2 'Sofia', sans-serif ; 
+    line-height: 1.1;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+}
+h1{font-size: 2.2em}
+h2{font-size: 2.0em}
+h3{font-size: 1.8em}
+h4{font-size: 1.6em}
+h5{font-size: 1.4em}
+h6{font-size: 1.2em}
+
+p{
+    font-family: 'PT Serif', 'sans serif';
+    /* width: 1800px; */
+    /* margin: 0 auto; */
+     padding-bottom: 1.5rem;
+}
+ol,ul,dl{
+    margin: 0 0 1.5rem;
+}
+ol,ul{
+    padding: 0;
+    margin-left: 0;
+}
+ul li, ol li{
+    list-style-position: inside;
+}
+ul ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul li{
+    list-style-type: square;
+}
+ul ul li{
+    list-style-type: disc;
+}
+ul ul ul li{
+    list-style-type: circle;
+}

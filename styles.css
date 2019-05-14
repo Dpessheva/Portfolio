@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css?family=Just+Another+Hand'); */
+/* @import url('https://fonts.googleapis.com/css?family=Indie+Flower'); */
+/* @import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption'); */
+
+
+
+@import url('reset.css');
+@import url('typography.css');
+@import url('navigation.css');
+@import url('education.css');
+@import url('about.css');
+@import url('info.css');
+@import url('skills.css');
+@import url('projects.css');
+@import url('interests.css');
+@import url('footer.css');
+
+body{
+    padding: 1em 2em;
+    max-width: 61rem;
+    margin: 0 auto;
+    
+}
+
+h3{
+    text-align: center;
+}
